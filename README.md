@@ -41,13 +41,6 @@ The schema consists of **11 tables** mapped from an EER diagram:
 | `Payment` | Weak entity — payment record per order |
 | `Review` | Ratings and comments submitted by verified attendees |
 
-### EER Diagram
-
-![EER Diagram](diagrams/eer_diagram.png)
-
-### Relational Schema
-
-![Relational Schema](diagrams/relational_schema.png)
 
 ---
 
